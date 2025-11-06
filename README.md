@@ -1,8 +1,8 @@
 # There there 👋 I'm Zcating
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Full-stack+developer;Open+source+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;software+developer;Web+cross-platform)](https://git.io/typing-svg)
 
-I'm a software developer. Interesting in iOS, Web, and cross-platform.
+I'm a software developer. Interesting in Web and cross-platform.
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zcating)
 
