@@ -1,16 +1,30 @@
-## Hi there 👋
+# There there 👋 I'm Zcating
 
-<!--
-**Zcating/Zcating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Full-stack+developer;Open+source+enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+I'm a software developer. Interesting in iOS, Web, and cross-platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zcating)
+
+## 🛠️ Skilled At
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zcating&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zcating&layout=compact)
+
+## 🌱 Currently Learning
+
+- [TypeScript]
+- [Rust]
+
+## 📫 How to reach Me
+
+- **Email**: [zcating@qq.com](mailto:zcating@qq.com)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Zcating.Zcating)
