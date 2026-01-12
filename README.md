@@ -4,7 +4,7 @@
 
 I'm a software developer. Interesting in Web and cross-platform.
 
-![zcating's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Zcating)
+![zcating's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zcating)
 
 ## 🛠️ Skilled At
 
@@ -13,10 +13,6 @@ I'm a software developer. Interesting in Web and cross-platform.
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zcating&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zcating&layout=compact)
 
 ## 🌱 Currently Learning
 
