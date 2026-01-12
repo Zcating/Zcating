@@ -4,7 +4,7 @@
 
 I'm a software developer. Interesting in Web and cross-platform.
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zcating)
+![zcating's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Zcating)
 
 ## 🛠️ Skilled At
 
